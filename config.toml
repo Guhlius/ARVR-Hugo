@@ -2,3 +2,4 @@ baseURL = 'https://Guhlius.github.io/ARVR-Hugo'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
+publishDir = "docs"
